@@ -66,7 +66,7 @@ MDP = {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/ragav-47/mdp-representation/assets/75235488/223a1236-8cec-4123-a862-28a1d1d6a160)
+![image](2.jpg)
 
 
 ## RESULT:
