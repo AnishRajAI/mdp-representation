@@ -28,7 +28,7 @@ A sample action could be "coding with full concentration," indicating that the p
 - Transition to the "empty code" state with any action has a reward of -1.0, indicating time wasted.
 
 ## Graphical Representation:
-![image](1 (2).jpg)
+![image](3.jpg)
 
 # Python Representation
 ```python
